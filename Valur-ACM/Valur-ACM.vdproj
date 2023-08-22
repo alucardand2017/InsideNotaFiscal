@@ -1871,15 +1871,15 @@
         {
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:Inside Nota Fiscal"
-        "ProductCode" = "8:{FE4A7126-6438-418D-81ED-A92817BB24DC}"
-        "PackageCode" = "8:{5C2839E7-B13C-40D2-AF3B-78E953CD7D5A}"
+        "ProductCode" = "8:{9B020BCC-83CE-4A93-963D-393728D36DF9}"
+        "PackageCode" = "8:{E1EBF837-1DD2-43CB-88A5-FB51D62B3F07}"
         "UpgradeCode" = "8:{0F338CCD-17B3-419D-87FB-D98CAD180A50}"
         "AspNetVersion" = "8:2.0.50727.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:FALSE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:1.1.1"
+        "ProductVersion" = "8:1.1.2"
         "Manufacturer" = "8:Inside Nota Fiscal"
         "ARPHELPTELEPHONE" = "8:+5511962999585"
         "ARPHELPLINK" = "8:"
@@ -2421,7 +2421,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_3179CD234F4140AFB93D75BFE3D4C10A"
             {
-            "SourcePath" = "8:..\\QRCodeACMnfp\\obj\\Release\\Valur.exe"
+            "SourcePath" = "8:..\\QRCodeACMnfp\\obj\\Debug\\Valur.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B8D1DF34989C457EA7451D5B265BFE71"
@@ -2449,7 +2449,7 @@
             }
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_476A340A85994366B5AC726C6C03D2A3"
             {
-            "SourcePath" = "8:..\\QRCodeACMnfp\\obj\\Release\\Valur.exe"
+            "SourcePath" = "8:..\\QRCodeACMnfp\\obj\\Debug\\Valur.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_B8D1DF34989C457EA7451D5B265BFE71"
