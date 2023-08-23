@@ -17,8 +17,6 @@ namespace InsideNotaFiscal
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-
             try
             {
                 PlanilhaService.CriarDiretorio();
@@ -39,6 +37,7 @@ namespace InsideNotaFiscal
         private async Task Form1_LoadedAsync(object sender, EventArgs e)
         {
             lbl_chromeVersao.Text = await ChromeUpdate.GetVersionChromium();
+            //lbl_chromeVersao.Text = "";
         }
 
         private static async void AtualizacaoDoChrome()
