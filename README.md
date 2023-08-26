@@ -1,6 +1,7 @@
-# VALUR-Automação
+# INSIDE - Nota Fiscal - Categoria: Automação
 
-![image](https://user-images.githubusercontent.com/39005073/219985214-7419097b-4aaa-4fdf-87b8-fd1ba4ee5e6b.png)
+![image](https://github.com/alucardand2017/InsideNotaFiscal/assets/39005073/96b70a02-880f-4491-a438-13565b4120fe)
+
 
 <p align="center">
  <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
@@ -10,7 +11,7 @@
     <img align="center" src="https://img.shields.io/badge/License-MIT-brightgreen">
   </a>
  <a href="https://github.com/alucardand2017/QRCodeACMnfp">
-    <img align="center" src="https://img.shields.io/badge/Release-V%201.1.0-red">
+    <img align="center" src="https://img.shields.io/badge/Release-V%201.1.2-purple">
   </a>
 </p>
 
